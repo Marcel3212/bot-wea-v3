@@ -101,9 +101,9 @@ const { limit } = require('./database/menu/limit')
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:√ANKER√\n' // Nama Lu
-            + 'ORG:#OwnerGanz;\n' // Nama Kontak Owner
-            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // Nomer Lu cok
+            + 'FN:√ANKER√\n' // Marcel
+            + 'ORG:#OwnerGanz;\n' // 6285372906349
+            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // 6285372906349
             + 'END:VCARD'
 prefix = "#"
 blocked = []
