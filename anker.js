@@ -1,5 +1,5 @@
 //starts
-//Author : Nazwa
+//Author : Marcel
 //Hayolo numpang nama doang
 //Ckckckck
 //Mengaku yang bukan punya nya
@@ -102,8 +102,8 @@ const { limit } = require('./database/menu/limit')
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:√ANKER√\n' // Nama Lu
-            + 'ORG:#OwnerGanz;\n' // Nama Kontak Owner
-            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // Nomer Lu cok
+            + 'ORG:#OwnerGanz;\n' // Marcel 085372906349
+            + 'TEL;type=CELL;type=VOICE;waid=6285372906349:+62 813-6864-6011\n' // Nomer Lu cok
             + 'END:VCARD'
 prefix = "#"
 blocked = []
